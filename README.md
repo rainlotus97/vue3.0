@@ -1,4 +1,4 @@
-# my-program --vue3.0
+# my-program
 
 ## Project setup
 ```
